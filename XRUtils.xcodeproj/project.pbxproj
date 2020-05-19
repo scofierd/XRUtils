@@ -31,6 +31,7 @@
 		35C597252473C83C0059D9EF /* UITabBarController+HideTabBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 35C597102473C83C0059D9EF /* UITabBarController+HideTabBar.m */; };
 		35C597262473C83C0059D9EF /* UITextField+PlaceHolder.m in Sources */ = {isa = PBXBuildFile; fileRef = 35C597122473C83C0059D9EF /* UITextField+PlaceHolder.m */; };
 		35C597282473C83C0059D9EF /* UIView+Utils.m in Sources */ = {isa = PBXBuildFile; fileRef = 35C597162473C83C0059D9EF /* UIView+Utils.m */; };
+		35C597442473DC970059D9EF /* documnet.strings in Resources */ = {isa = PBXBuildFile; fileRef = 35C597432473DC970059D9EF /* documnet.strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -99,6 +100,7 @@
 		35C597122473C83C0059D9EF /* UITextField+PlaceHolder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UITextField+PlaceHolder.m"; sourceTree = "<group>"; };
 		35C597152473C83C0059D9EF /* UIView+Utils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Utils.h"; sourceTree = "<group>"; };
 		35C597162473C83C0059D9EF /* UIView+Utils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Utils.m"; sourceTree = "<group>"; };
+		35C597432473DC970059D9EF /* documnet.strings */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; path = documnet.strings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +131,7 @@
 		35C596702473B8AE0059D9EF = {
 			isa = PBXGroup;
 			children = (
+				35C597432473DC970059D9EF /* documnet.strings */,
 				35C5967B2473B8AE0059D9EF /* XRUtils */,
 				35C596972473B8B10059D9EF /* XRUtilsTests */,
 				35C596A22473B8B10059D9EF /* XRUtilsUITests */,
@@ -326,6 +329,7 @@
 				35C5968C2473B8B10059D9EF /* LaunchScreen.storyboard in Resources */,
 				35C596892473B8B10059D9EF /* Assets.xcassets in Resources */,
 				35C596872473B8AE0059D9EF /* Main.storyboard in Resources */,
+				35C597442473DC970059D9EF /* documnet.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
