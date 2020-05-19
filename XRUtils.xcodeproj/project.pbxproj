@@ -129,7 +129,6 @@
 		35C596702473B8AE0059D9EF = {
 			isa = PBXGroup;
 			children = (
-				35C596F22473C83C0059D9EF /* Utils */,
 				35C5967B2473B8AE0059D9EF /* XRUtils */,
 				35C596972473B8B10059D9EF /* XRUtilsTests */,
 				35C596A22473B8B10059D9EF /* XRUtilsUITests */,
@@ -156,6 +155,7 @@
 				35C596802473B8AE0059D9EF /* SceneDelegate.m */,
 				35C596822473B8AE0059D9EF /* ViewController.h */,
 				35C596832473B8AE0059D9EF /* ViewController.m */,
+				35C596F22473C83C0059D9EF /* Utils */,
 				35C596852473B8AE0059D9EF /* Main.storyboard */,
 				35C596882473B8B10059D9EF /* Assets.xcassets */,
 				35C5968A2473B8B10059D9EF /* LaunchScreen.storyboard */,
