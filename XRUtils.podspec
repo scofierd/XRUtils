@@ -33,7 +33,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '10.0'
   
-  s.source_files = 'XRUtils/XRUtils/*.{h,m}'
+  s.source_files = 'XRUtils/XRUtils/XRUtils/*.{h,m}'
   
   # s.resource_bundles = {
   #   'LgUIKit' => ['LgUIKit/Assets/*.png']
